@@ -14,7 +14,7 @@ const Projects = () => {
       name: "Vue-demo",
       description: "学习Vue的笔记",
       tech: ["Vue", "JavaScript"],
-      stars: 1,
+      stars: 103,
       url: "https://github.com/Fanyuansheng/Vue-demo",
       icon: "📝"
     },
@@ -22,6 +22,7 @@ const Projects = () => {
       name: "personal-website",
       description: "基于 React 和 Docusaurus 构建的个人网站",
       tech: ["React", "Docusaurus", "Node.js"],
+      stars: 201,
       url: "https://github.com/Fanyuansheng/personal-website",
       icon: "🌐"
     },
@@ -29,6 +30,7 @@ const Projects = () => {
       name: "studyApp",
       description: "学情App - 学习情况追踪与管理应用",
       tech: ["JavaScript", "Mobile"],
+      stars: 133,
       url: "https://github.com/Fanyuansheng/studyApp",
       icon: "📱"
     }
